@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 3D Cards - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the 3D Cards component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/3d-cards)
+- [Info Page](https://codyhouse.co/ds/components/info/3d-cards)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
